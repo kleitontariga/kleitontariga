@@ -1,19 +1,23 @@
+# Hello! Welcome to my GitHub profile!
 
-🌱 I’m currently learning ...
+🌱 I’m currently learning and exploring the fascinating field of Technology and Information (T.I). As a T.I student, I am excited to dive into this constantly evolving world and apply my skills and knowledge to create innovative technology solutions.
 
+💬 Ask me about my journey from a background in History to transitioning into T.I. I've gained valuable experience through two internships in Inclusive Education and Protocol/Archiving, totaling 4 years of work experience. These experiences have equipped me with a diverse skill set and a unique perspective on problem-solving.
 
-💬 Ask me about ...
+## About Me
+My name is Kleiton, and I'm a passionate T.I student in search of my first internship opportunity. While my academic background lies in History, I made the decision in 2022 to pursue T.I to embrace new challenges and opportunities. I am committed to continuous learning and development in the field of T.I, always seeking new ways to enhance my technical skills and soft skills.
 
-- 👋 Hello! My name is Kleiton, and I'm a T.I (Information Technology) student in search of my first internship. Despite my background being in History, I have gained experience in different areas through two internships in Inclusive Education and Protocol/Archiving, totaling 4 years of work experience.
-However, in 2022, I decided to switch to the field of T.I, seeking new challenges and opportunities in life. I'm excited to dive into this constantly evolving world and apply my skills and knowledge to technology solutions.
-I'm committed to learning and continuously developing in the field of T.I, always seeking new ways to enhance my technical skills and soft skills. I'm ready to work hard and contribute to the team I'm placed in, with my dedication and passion for learning.
-If you're interested in getting in touch, I'm available to discuss opportunities and projects in the field of T.I.
+## What I Offer
+- Dedication and passion for learning: I'm enthusiastic about acquiring new knowledge and skills in T.I. I enjoy keeping up with the latest trends and technologies.
+- Adaptability and diverse experience: My internships in Inclusive Education and Protocol/Archiving have provided me with a versatile skill set and the ability to tackle various challenges.
+- Strong work ethic: I am ready to work hard and contribute to a team with my dedication, perseverance, and attention to detail.
 
-PT-BR
-- 👋 Olá! Meu nome é Kleiton e sou um estudante de T.I em busca do meu primeiro estágio. Apesar de minha formação ser em História, eu adquiri experiência em diferentes áreas por meio de dois estágios em Educação Inclusiva e Protocolo/Arquivo, totalizando 4 anos de vivência no mercado de trabalho.
-No entanto, decidi mudar para a área de T.I em 2022, em busca de novos desafios e oportunidades na vida. Estou animado para mergulhar nesse mundo em constante evolução e aplicar minhas habilidades e conhecimentos em soluções de tecnologia.
-Estou empenhado em aprender e me desenvolver continuamente na área de T.I, buscando sempre novas formas de aprimorar minhas habilidades técnicas e soft skills. Estou pronto para trabalhar duro e contribuir para a equipe em que for inserido, com meu comprometimento e paixão por aprender.
-Caso tenha interesse em entrar em contato, estou disponível para conversar sobre oportunidades e projetos na área de T.I.
+## Get in Touch
+I am open to discussing opportunities and projects in the field of T.I. If you're interested in connecting, feel free to reach out. Let's explore how we can collaborate and make a positive impact together!
 
+📫 You can contact me through [email] or connect with me on [LinkedIn].
 
+Thank you for visiting my profile!
 
+[LinkedIn]: [[Your LinkedIn profile link](https://www.linkedin.com/in/kleiton-tariga-176243144/)]
+[email]: [kleiton.tariga@gmail.com]
