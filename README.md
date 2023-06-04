@@ -19,5 +19,5 @@ I am open to discussing opportunities and projects in the field of T.I. If you'r
 
 Thank you for visiting my profile!
 
-[LinkedIn]: [[Your LinkedIn profile link](https://www.linkedin.com/in/kleiton-tariga-176243144/)]
-[email]: [kleiton.tariga@gmail.com]
+[[LinkedIn](https://www.linkedin.com/in/kleiton-tariga-176243144/)]
+[[Email](kleiton.tariga@gmail.com)]
