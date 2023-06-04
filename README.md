@@ -15,9 +15,6 @@ My name is Kleiton, and I'm a passionate T.I student in search of my first inter
 ## Get in Touch
 I am open to discussing opportunities and projects in the field of T.I. If you're interested in connecting, feel free to reach out. Let's explore how we can collaborate and make a positive impact together!
 
-📫 You can contact me through [email] or connect with me on [LinkedIn].
+📫 You can contact me through [[Email](kleiton.tariga@gmail.com)] or connect with me on [[LinkedIn](https://www.linkedin.com/in/kleiton-tariga-176243144/)].
 
 Thank you for visiting my profile!
-
-[[LinkedIn](https://www.linkedin.com/in/kleiton-tariga-176243144/)]
-[[Email](kleiton.tariga@gmail.com)]
